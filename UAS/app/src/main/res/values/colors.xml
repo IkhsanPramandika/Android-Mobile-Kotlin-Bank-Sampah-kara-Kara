@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#97C14B</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#97C14B</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+
+    <!--button color-->
+    <color name="my_button_color">#97C14B</color>
+    <color name="button_biru">#00809E</color>
+    <color name="my_button_color_secondary">#D9D9D9</color>
+    <color name="button_plastik">#F3E472</color>
+
+    <color name="red">#FF0000</color>
+
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "295265058859",
+    "firebase_url": "https://uas-mobile-5500b-default-rtdb.firebaseio.com",
+    "project_id": "uas-mobile-5500b",
+    "storage_bucket": "uas-mobile-5500b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295265058859:android:3cbacb453f8a2a17832a6e",
+        "android_client_info": {
+          "package_name": "com.example.uas_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd9KAiGy95DHy_jDJRkgm5Y0F_punX6V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

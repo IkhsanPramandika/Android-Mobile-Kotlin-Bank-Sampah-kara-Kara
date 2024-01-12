@@ -1,0 +1,15 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_beranda"
+        android:icon="@drawable/ic_beranda"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/nav_riwayat"
+        android:icon="@drawable/ic_riwayat"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/nav_akun"
+        android:icon="@drawable/ic_trash"
+        app:showAsAction="always"/>
+</menu>
